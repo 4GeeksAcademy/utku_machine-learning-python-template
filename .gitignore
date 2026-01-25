@@ -1,3 +1,10 @@
 __pycache__
 .env
 .learn
+# datasets
+src/extracted_content/
+src/splits/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
